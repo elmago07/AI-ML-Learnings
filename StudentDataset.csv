@@ -1,0 +1,46 @@
+Student_ID,Student_Name,Math_Score,Science_Score,English_Score,Age,Grade_Level,City
+STU001,Alice,85,90,88,20,Sophomore,New York
+STU002,Bob,92,85,79,19,Freshman,Los Angeles
+STU003,Charlie,78,82,85,21,Junior,Chicago
+STU004,Diana,88,91,93,20,Sophomore,Houston
+STU005,Eve,95,89,87,22,Senior,Phoenix
+STU006,Frank,76,78,80,19,Freshman,New York
+STU007,Grace,89,86,92,21,Junior,Los Angeles
+STU008,Henry,82,88,85,20,Sophomore,Chicago
+STU009,Ivy,91,93,89,23,Senior,Houston
+STU010,Jack,77,75,82,18,Freshman,Phoenix
+STU011,Kate,94,92,91,22,Senior,New York
+STU012,Liam,80,84,87,19,Freshman,Los Angeles
+STU013,Mia,87,89,85,21,Junior,Chicago
+STU014,Noah,93,88,90,20,Sophomore,Houston
+STU015,Olivia,86,87,88,22,Senior,Phoenix
+STU016,Peter,79,81,83,19,Freshman,New York
+STU017,Quinn,90,85,89,21,Junior,Los Angeles
+STU018,Rachel,84,86,91,20,Sophomore,Chicago
+STU019,Sam,88,90,86,23,Senior,Houston
+STU020,Tina,92,89,88,22,Senior,Phoenix
+STU021,Uma,81,83,85,18,Freshman,New York
+STU022,Victor,87,91,87,21,Junior,Los Angeles
+STU023,Wendy,89,88,92,20,Sophomore,Chicago
+STU024,Xavier,85,87,84,19,Freshman,Houston
+STU025,Yara,96,94,95,24,Senior,Phoenix
+STU026,Zoe,83,85,87,20,Sophomore,New York
+STU027,Adam,90,88,91,21,Junior,Los Angeles
+STU028,Bella,86,89,85,22,Senior,Chicago
+STU029,Carlos,78,80,82,19,Freshman,Houston
+STU030,Dora,91,93,90,23,Senior,Phoenix
+STU031,Ethan,84,86,88,20,Sophomore,New York
+STU032,Fiona,88,85,89,21,Junior,Los Angeles
+STU033,George,82,84,86,18,Freshman,Chicago
+STU034,Hannah,95,92,94,24,Senior,Houston
+STU035,Ian,87,89,85,22,Senior,Phoenix
+STU036,Julia,89,91,88,20,Sophomore,New York
+STU037,Kevin,83,85,87,19,Freshman,Los Angeles
+STU038,Luna,92,90,93,21,Junior,Chicago
+STU039,Max,86,88,84,23,Senior,Houston
+STU040,Nina,94,89,91,22,Senior,Phoenix
+STU041,Oscar,80,82,85,19,Freshman,New York
+STU042,Penny,88,86,89,21,Junior,Los Angeles
+STU043,Quincy,85,87,88,20,Sophomore,Chicago
+STU044,Rose,93,91,92,24,Senior,Houston
+STU045,Steve,87,85,86,22,Senior,Phoenix
